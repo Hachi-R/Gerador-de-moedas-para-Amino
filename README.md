@@ -4,7 +4,7 @@
   <a href="https://github.com/Hachi-R/Gerador-de-moedas-para-Amino"> <img src="https://i.ibb.co/2vs0mW0/Sem-t-tulo82.jpg" alt="Coin img" width="300"></a><br>
     
 Machine Coin<br><br>
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/Hachi-R/Gerador-de-moedas-para-Amino?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Hachi-R/Gerador-de-moedas-para-Amino?style=for-the-badge)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Doker?color=green&logo=python&logoColor=white&style=for-the-badge)
 [![GitHub license](https://img.shields.io/github/license/Hachi-R/Gerador-de-moedas-para-Amino?color=red&style=for-the-badge)](https://github.com/Hachi-R/Gerador-de-moedas-para-Amino/blob/main/LICENSE)
