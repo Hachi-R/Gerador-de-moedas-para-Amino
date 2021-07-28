@@ -160,10 +160,10 @@ Tenha certeza de escolher **apenas um aplicativo** para realizar o processo, poi
 >### Exemplificação do processo de farm:
 >1. O script é executado:
 ><img src="https://raw.githubusercontent.com/Hachi-R/assets/main/IMG_20210728_170535.png">
->
+<br>
 >2. As moedas chegam no modulo de anuncios do amino:
 ><img src="https://raw.githubusercontent.com/Hachi-R/assets/main/IMG_20210728_170746.png">
->
+<br>
 >3. As moedas são entregues às 22:00 e você continua gerando até ficar rico 😎:
 ><img src="https://raw.githubusercontent.com/Hachi-R/assets/main/IMG_20210728_170437.png">
 
