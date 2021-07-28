@@ -5,7 +5,8 @@
     
 Machine Coin<br><br>
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/Hachi-R/Gerador-de-moedas-para-Amino?style=for-the-badge)
+[![GitHub license](https://img.shields.io/github/license/Hachi-R/Gerador-de-moedas-para-Amino?color=red&style=for-the-badge)](https://github.com/Hachi-R/Gerador-de-moedas-para-Amino/blob/main/LICENSE)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 </h1>
