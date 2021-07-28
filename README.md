@@ -47,9 +47,13 @@ Tenha certeza de escolher **apenas um aplicativo** para realizar o processo, poi
     
 ## 📂 Downloads 
  ### Android
- - Termux
- - Pydroid 3
- - Pydroid repository plugin
+ #### <a href="https://f-droid.org/repo/com.termux_117.apk"><img src="https://i.ibb.co/b39pRj3/20210727-220239.png" align="left" width="40"> Termux</a>
+ #### <a href=""><img src="https://miro.medium.com/max/384/1*gPgO9_FAacYIbrd1ynI47Q.png" align="left" width="30">Pydroid 3</a><br>
+ #### <a href=""><img src="https://miro.medium.com/max/384/1*gPgO9_FAacYIbrd1ynI47Q.png" align="left" width="30">Pydroid repository plugin</a><br>
+ <br>
+ 
+ 
+ 
     
  ### Windows
  - VS Code
