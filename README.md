@@ -68,7 +68,7 @@ Tenha certeza de escolher **apenas um aplicativo** para realizar o processo, poi
     <br>
 
 - ## Gerador.
-1. [Machine Coin]()
+1. [Machine Coin](https://github.com/Hachi-R/Gerador-de-moedas-para-Amino/archive/refs/tags/1.5.zip)
     
 <br>    
     
