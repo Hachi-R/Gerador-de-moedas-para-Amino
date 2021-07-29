@@ -17,7 +17,7 @@ O Machine Coin é um *exploit*, que através da **API [Amino.py](https://githu
 <br>
     
 ## 🕵️‍♂️ Como isso funciona?
-### Para mais detalhes, vá para: <a href="#i">Funcionamento.</a>
+### Para mais detalhes, vá para: <a href="#i">funcionamento.</a>
  
 <br>
     
@@ -97,7 +97,7 @@ Tenha certeza de escolher **apenas um aplicativo** para realizar o processo, poi
 
  - ` git clone https://github.com/Hachi-R/Gerador-de-moedas-para-Amino `
 
-- ### Tudo pronto, agora siga para <a href="#i"> Funcionamento </a><br>
+- ### Tudo pronto, agora siga para <a href="#i"> funcionamento. </a><br>
 
 ## Pydroid:
 - Extraia na raiz do seu dispositivo o arquivo `Machine_Coin.zip`, que você baixou [aqui](#d).
@@ -112,7 +112,7 @@ Tenha certeza de escolher **apenas um aplicativo** para realizar o processo, poi
 
 - ` amino.py==1.2.17 ` 
 
-- ### Tudo pronto, agora siga para <a href="#i"> Funcionamento </a><br>
+- ### Tudo pronto, agora siga para <a href="#i"> funcionamento. </a><br>
 
 ## VS Code:
 - Comece instalado a extenção do Python no marketplace do VS Code, usando (`Ctrl + Shift + X`), e depois pesquisando por: `Python`.
@@ -129,7 +129,7 @@ Tenha certeza de escolher **apenas um aplicativo** para realizar o processo, poi
 
 - Após clicar em `Clone Repository`, cole essa url: `https://github.com/Hachi-R/Gerador-de-moedas-para-Amino` na caixa que aparecerá na parte superior da sua tela, em seguida, presione a tecla enter e aguarde.
 
-- ### Tudo pronto, agora siga para <a href="#i"> Funcionamento </a><br>
+- ### Tudo pronto, agora siga para <a href="#i"> funcionamento. </a><br>
 
  <div id="i"></div><br>
 
