@@ -23,15 +23,15 @@ O Machine Coin é um *exploit*, que através da **API [Amino.py](https://githu
     
 ## 💻 Pré-requisitos
 ##### <b>Atenção:</b> Os links para download de todos os recursos necessários estarão listados <a href="#d">aqui.</a>
-Tenha certeza de escolher **apenas um aplicativo** para realizar o processo, pois **não é necessário** o uso de dois ou mais deles. Também tenha certeza de atender **todos os pré-requisitos** da sua plataforma escolhida antes de iniciar a instalação, assim evitando possíveis frustrações.
+Tenha certeza de escolher **apenas um aplicativo** para realizar o processo, pois **não é necessário** o uso de dois ou mais deles. Também tenha certeza de atender a **todos os pré-requisitos** da sua plataforma escolhida antes de iniciar a instalação, assim evitando possíveis frustrações.
 
 <br>
     
 - ## [Termux (Android)](https://f-droid.org/packages/com.termux/)
   | Ter uma versão recente do Termux instalada no seu dispositivo.            |
   |------------------------------------------------------------------------------|
-  | Não estar usando a versão da Play Store, e sim a do FDroid, disponivel aqui. |
-  |Ter um smartphone com Android 7.0 ou superior                                 |
+  | Não estar usando a versão da Play Store, e sim a do FDroid, disponível aqui. |
+  | Ter um smartphone com Android 7.0 ou superior.                               |
   
   <br>
     
@@ -39,16 +39,16 @@ Tenha certeza de escolher **apenas um aplicativo** para realizar o processo, poi
   | Ter uma versão recente do Pydroid instalada no seu dispositivo.                   |
   |--------------------------------------------------------------------------------------|
   | Ter uma versão recente do [Pydroid repository plugin](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3.quickinstallrepo&hl=pt_BR&gl=BR) instalada no seu dispositivo.     |
-  |Ter um smartphone com Android 6.0 ou superior                                         |
+  |Ter um smartphone com Android 6.0 ou superior.                                        |
  
   <br>
     
 - ## [VS Code (Windows, Mac OS e Linux)](https://code.visualstudio.com/)
-  | Ter uma versão recente do VS code instalado no seu computador                                |
+  | Ter uma versão recente do VS Code instalado no seu computador.                               |
   |-------------------------------------------------------------------------------------------------|
-  | Ter alguma versão do [Python 3](https://python.org/) instalada no seu computador. recomenda-se utilizar o python 3.8 ou 3.9 |
-  | Ter uma versão recente do [Git](https://git-scm.com/) instalado no seu PC             <div id="d"></div>             |
-  | Possuir um PC com Windows 7+, Mac OS 10.10+ ou uma versão compatível do Linux                     |
+  | Ter alguma versão do [Python 3](https://python.org/) instalada no seu computador. Recomendado Python 3.8 ou 3.9 |
+  | Ter uma versão recente do [Git](https://git-scm.com/) instalado no seu PC.             <div id="d"></div>             |
+  | Possuir um PC com Windows 7+, Mac OS 10.10+ ou alguma versão compatível de Linux.                    |
 
 <br>  
     
