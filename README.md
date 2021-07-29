@@ -12,7 +12,7 @@ Machine Coin<br><br>
 </h1>
         
 ## 🚩 O que é isso?
-O Machine Coin é um **exploit**, que através da **API [Amino.py](https://github.com/Slimakoi/Amino.py)**, utiliza um ou mais "_bots do Amino_" para farmar uma determinada quantidade de **Amino Coins**. Esse processo é feito através de um scrip em Python, que aproveitando-se de inúmeras vulnerabilidades existentes no aplicativo, as usa para coordenar um grupo de bots à **visualização de anúncios dentro da plataforma**, enquanto se passam por **usuários comuns** do aplicativo.    
+O Machine Coin é um *exploit*, que através da **API [Amino.py](https://github.com/Slimakoi/Amino.py)**, utiliza um ou mais "_bots do Amino_" para farmar uma determinada quantidade de **Amino Coins**. Esse processo é feito através de um scrip em Python, que se aproveitando de inúmeras vulnerabilidades existentes no aplicativo, as usa para coordenar um grupo de bots à **visualização de anúncios na plataforma**, enquanto se passam por **usuários comuns** do aplicativo.    
     
 <br>
     
@@ -97,7 +97,7 @@ Tenha certeza de escolher **apenas um aplicativo** para realizar o processo, poi
 
  - ` git clone https://github.com/Hachi-R/Gerador-de-moedas-para-Amino `
 
-- ### Tudo pronto, agora siga para <a href="#u"> Usabilidade </a><br>
+- ### Tudo pronto, agora siga para <a href="#i"> Usabilidade </a><br>
 
 ## Pydroid:
 - Extraia o arquivo `Machine_Coin.zip` que você baixou aqui, na raiz do seu dispositivo.
@@ -112,7 +112,7 @@ Tenha certeza de escolher **apenas um aplicativo** para realizar o processo, poi
 
 - ` amino.py==1.2.17 ` 
 
-- ### Tudo pronto, agora siga para <a href="#u"> Usabilidade </a><br>
+- ### Tudo pronto, agora siga para <a href="#i"> Usabilidade </a><br>
 
 ## VS Code:
 - Comece instalado a extenção do Python no marketplace do VS Code com (`Ctrl + Shift + X`) e pesquisando por: `Python`.
@@ -129,7 +129,7 @@ Tenha certeza de escolher **apenas um aplicativo** para realizar o processo, poi
 
 - Após clicar em `Clone Repository`, cole essa url: `https://github.com/Hachi-R/Gerador-de-moedas-para-Amino` na caixa que aparecerá na parte superior da sua tela, em seguida, presione e a tecla enter e aguarde.
 
-- ### Tudo pronto, agora siga para <a href="#u"> Usabilidade </a><br>
+- ### Tudo pronto, agora siga para <a href="#i"> Usabilidade </a><br>
 
  <div id="i"></div><br>
 
@@ -216,7 +216,7 @@ Tenha certeza de escolher **apenas um aplicativo** para realizar o processo, poi
 <br>
 
 - ### VS Code
-  1. Abra o VS Code e abra a pasta que você criou, usando (`Ctrl + K`) e (`Ctrl + O`).
+  1. Abra o VS Code, e abra a pasta que você criou, usando (`Ctrl + K`) e (`Ctrl + O`).
 
   2. Crie um novo arquivo nessa pasta usando (`Ctrl + N`) e o nomeie de `emails.txt.`
 
@@ -230,7 +230,8 @@ Tenha certeza de escolher **apenas um aplicativo** para realizar o processo, poi
 <br><br>
 
 <div align="center" class="S2">
-<h2>Meus agradecimentos ao Slimakoi pela <B>API <a href="https://github.com/Slimakoi/Amino.py">Amino.py</B></a> e ao Lil Zevi pela <B>coingeneratorfunctions.py</B> e a base desse sscript!
+<h2>Meus agradecimentos ao Slimakoi, pela <B>API <a href="https://github.com/Slimakoi/Amino.py">Amino.py</B></a>
+ e ao Lil Zevi, pela <B>coingeneratorfunctions.py</B> e a base desse sscript!
 </h2>
 <br>
  </div>
