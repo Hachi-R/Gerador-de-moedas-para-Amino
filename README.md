@@ -22,8 +22,8 @@ O Machine Coin é um *exploit*, que através da **API [Amino.py](https://githu
 <br>
     
 ## 💻 Pré-requisitos
-##### <b>Atenção:</b> Os links para download de todos os recursos necessarios estarão listados <a href="#d">aqui.</a>
-Tenha certeza de escolher **apenas um aplicativo** para realizar o processo, pois **não é necessario** o uso de dois ou mais deles. também tenha certeza de atender **todos os pré-requisitos** da sua plataforma escolhida antes de iniciar a instalação, assim evitando possiveis frustrações
+##### <b>Atenção:</b> Os links para download de todos os recursos necessários estarão listados <a href="#d">aqui.</a>
+Tenha certeza de escolher **apenas um aplicativo** para realizar o processo, pois **não é necessário** o uso de dois ou mais deles. Também tenha certeza de atender **todos os pré-requisitos** da sua plataforma escolhida antes de iniciar a instalação, assim evitando possíveis frustrações.
 
 <br>
     
