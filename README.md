@@ -79,7 +79,7 @@ Tenha certeza de escolher **apenas um aplicativo** para realizar o processo, poi
 
  - ` termux-setup-storage `
 
- - Em seguida, conceda a permissão de acesso ao armazenamento e siga para os seguintes comandos, **executando um por vez**:
+ - Após isso, conceda a permissão de acesso ao armazenamento e siga para os seguintes comandos, **executando um por vez**:
 
  - ` cd storage/shared/termux `
 
@@ -97,14 +97,14 @@ Tenha certeza de escolher **apenas um aplicativo** para realizar o processo, poi
 
  - ` git clone https://github.com/Hachi-R/Gerador-de-moedas-para-Amino `
 
-- ### Tudo pronto, agora siga para <a href="#i"> Usabilidade </a><br>
+- ### Tudo pronto, agora siga para <a href="#i"> Funcionamento </a><br>
 
 ## Pydroid:
-- Extraia o arquivo `Machine_Coin.zip` que você baixou aqui, na raiz do seu dispositivo.
+- Extraia na raiz do seu dispositivo o arquivo `Machine_Coin.zip`, que você baixou [aqui](#d).
 
-- Abra o aplicativo e clique nas três barras do canto superior direito, após isso, selecione a opção `"Pip"`.
+- Abra o aplicativo e clique nas três barras, do canto superior direito e, após isso, selecione a opção `"Pip"`.
 
-- Agora clique em `"Library name"` e cole os comandos a seguir, lembrando de colar apenas um comando por vez e pressionar `"INSTALL"` a cada comando.
+- Agora clique em `"Library name"`, e cole os comandos a seguir, lembrando-se de colar apenas um comando por vez e pressionar `"INSTALL"` a cada comando.
 
 - ` colorama `
 
@@ -112,24 +112,24 @@ Tenha certeza de escolher **apenas um aplicativo** para realizar o processo, poi
 
 - ` amino.py==1.2.17 ` 
 
-- ### Tudo pronto, agora siga para <a href="#i"> Usabilidade </a><br>
+- ### Tudo pronto, agora siga para <a href="#i"> Funcionamento </a><br>
 
 ## VS Code:
-- Comece instalado a extenção do Python no marketplace do VS Code com (`Ctrl + Shift + X`) e pesquisando por: `Python`.
+- Comece instalado a extenção do Python no marketplace do VS Code, usando (`Ctrl + Shift + X`), e depois pesquisando por: `Python`.
 
-- Crie uma pasta e a abra utilizando (`Ctrl + K` e `Ctrl + O`)
+- Após isso, crie uma pasta e a abra utilizando (`Ctrl + K` e `Ctrl + O`)
 
-- Agora abra um terminal com (`Ctrl + Shift + '`), espere carregar e digite os seguintes comandos:
+- Agora abra um terminal, pressionando (`Ctrl + Shift + '`), depois espere o terminal carregar e digite os seguintes comandos:
 
 - `pip install colorama`
 - `pip install amino.py==1.2.17`
 - `pip install hashlib`
 
-- Agora clone este repositorio usando (`Ctrl + Shift + G`) e apertando em `Clone Repository`.
+- Agora clone este repositorio, usando as teclas (`Ctrl + Shift + G`), e selecionando a opção `Clone Repository`.
 
-- Após clicar em `Clone Repository`, cole essa url: `https://github.com/Hachi-R/Gerador-de-moedas-para-Amino` na caixa que aparecerá na parte superior da sua tela, em seguida, presione e a tecla enter e aguarde.
+- Após clicar em `Clone Repository`, cole essa url: `https://github.com/Hachi-R/Gerador-de-moedas-para-Amino` na caixa que aparecerá na parte superior da sua tela, em seguida, presione a tecla enter e aguarde.
 
-- ### Tudo pronto, agora siga para <a href="#i"> Usabilidade </a><br>
+- ### Tudo pronto, agora siga para <a href="#i"> Funcionamento </a><br>
 
  <div id="i"></div><br>
 
