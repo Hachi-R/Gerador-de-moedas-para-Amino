@@ -16,8 +16,8 @@ O Machine Coin é um *exploit*, que através da **API [Amino.py](https://githu
     
 <br>
     
-## 🕵️‍♂️ Como isso funciona?
-### Para mais detalhes, vá para: <a href="#i">funcionamento.</a>
+## 🕵️‍♂️ Atenção?
+### Eu só fui escrevendo e escrevendo isso aqui e dps desanimei por uns motivos aí, por isso isso ainda não bem organizado e tá cheio de erros de português. De qualquer forma, é só ler direitinho e não ser uma mula que dá tudo certo.</a>
  
 <br>
     
